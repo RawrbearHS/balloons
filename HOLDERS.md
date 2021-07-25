@@ -15,3 +15,6 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | @Innerpanda        | 5.00  | - | 0 | N/A | N/A |
 | @Nobody            | 5.00  | - | 0 | N/A | N/A |
 | @waffle            | 5.00  | - | 0 | N/A | N/A |
+| @sophia            | 5.00  | - | 0 | N/A | N/A |
+| @Otato             | 5.00  | - | 0 | N/A | N/A |
+| @Temm              | 5.00  | - | 0 | N/A | N/A |
