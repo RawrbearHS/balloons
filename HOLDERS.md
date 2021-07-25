@@ -11,4 +11,6 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | @DogIcing          | 5.00  | - | 0 | N/A | N/A |
 | @ExplodingDucks    | 5.00  | - | 0 | N/A | N/A |
 | @FearlessPhoenix   | 5.00  | - | 0 | N/A | N/A |
+| @Innerpanda        | 5.00  | - | 0 | N/A | N/A |
 | @Nobody            | 5.00  | - | 0 | N/A | N/A |
+| @waffle            | 5.00  | - | 0 | N/A | N/A |
