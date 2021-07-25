@@ -3,5 +3,11 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 
 | Holder  | 🎈 Balloons Owned (BLO$) | Status Badges | Transaction Count | Monthly Last Redeemed | Suspension Status |
 | ------------- | ------------- | ------- | ------- | ------- | ------- |
-| @Rawrbear  | 5.00  | 📈 Maintainer | 0 | N/A | N/A |
-| @DogIcing  | 5.00  | - | 0 | N/A | N/A |
+| @Rawrbear          | 5.00  | 📈 Maintainer | 0 | N/A | N/A |
+| @DogIcing          | 5.00  | - | 0 | N/A | N/A |
+| @ExplodingDucks    | 5.00  | - | 0 | N/A | N/A |
+| @Cutedogs1Forum    | 5.00  | - | 0 | N/A | N/A |
+| @Nobody            | 5.00  | - | 0 | N/A | N/A |
+| @FearlessPhoenix   | 5.00  | - | 0 | N/A | N/A |
+| @DaughterOfHecate  | 5.00  | - | 0 | N/A | N/A |
+| @chemistree        | 5.00  | - | 0 | N/A | N/A |
