@@ -19,10 +19,15 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | @FearlessPhoenix   | 5.00  | - | 0 | N/A | N/A |
 | @FRENCH_WAVE123    | 5.00  | - | 0 | N/A | N/A |
 | @Henry             | 5.00  | - | 0 | N/A | N/A |
+| @Heracc            | 5.00  | - | 0 | N/A | N/A |
 | @Innerpanda        | 5.00  | - | 0 | N/A | N/A |
+| @Jarmin            | 5.00  | - | 0 | N/A | N/A |
+| @LR10123           | 5.00  | - | 0 | N/A | N/A |
 | @Nobody            | 5.00  | - | 0 | N/A | N/A |
+| @Ostrich           | 5.00  | - | 0 | N/A | N/A |
 | @Otato             | 5.00  | - | 0 | N/A | N/A |
 | @PeppyWafer21      | 5.00  | - | 0 | N/A | N/A |
+| @Petrichor         | 5.00  | - | 0 | N/A | N/A |
 | @sophia            | 5.00  | - | 0 | N/A | N/A |
 | @Stella            | 5.00  | - | 0 | N/A | N/A |
 | @Temm              | 5.00  | - | 0 | N/A | N/A |
