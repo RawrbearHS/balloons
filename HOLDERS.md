@@ -1,10 +1,10 @@
 # Currency Holders
 A table of Hopscotch forumers that are currently holding balloons, sorted by status
 
-| Holder  | 🎈 Balloons Owned (BLO$) | Status Badges | Transaction Count | Monthly Last Redeemed | Suspension Status |
+| Holder  | 🎈 Balloons Owned (BLO$) | Status Badges | Transaction Count (Sent or Received) | Monthly Last Redeemed | Suspension Status |
 | ------------- | ------------- | ------- | ------- | ------- | ------- |
 | @Jye               | 5.00  | 🎨 Art Shop | 0 | N/A | N/A |
-| @Willowmoon        | 5.00  | 🎨 Art Shop | 0 | N/A | N/A |
+| @Willowmoon        | 8.30  | 🎨 Art Shop | 0S 1ShR | N/A | N/A |
 | @Rawrbear          | 5.00  | 📈 Maintainer | 0 | N/A | N/A |
 | @AECREATION        | 5.00  | - | 0 | N/A | N/A |
 | @AlphaChamp        | 5.00  | - | 0 | N/A | N/A |
@@ -20,7 +20,7 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | @ExplodingDucks    | 5.00  | - | 0 | N/A | N/A |
 | @FearlessPhoenix   | 5.00  | - | 0 | N/A | N/A |
 | @FRENCH_WAVE123    | 5.00  | - | 0 | N/A | N/A |
-| @GOATGAMES         | 5.00  | - | 0 | N/A | N/A |
+| @GOATGAMES         | 1.70  | - | 1ShS 0R | N/A | N/A |
 | @Henry             | 5.00  | - | 0 | N/A | N/A |
 | @Heracc            | 5.00  | - | 0 | N/A | N/A |
 | @Innerpanda        | 5.00  | - | 0 | N/A | N/A |
