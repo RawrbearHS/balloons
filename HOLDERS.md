@@ -7,7 +7,7 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | @Heracc            | 5.00  | 🎨 Art Shop<br>💻 Code Shop | 0 | N/A | N/A |
 | @Innerpanda        | 5.00  | 🎨 Art Shop<br>💻 Code Shop | 0 | N/A | N/A |
 | @Jye               | 5.00  | 🎨 Art Shop | 0 | N/A | N/A |
-| @Willowmoon        | 10.75  | 🎨 Art Shop<br>💻 Code Shop | 0S 2ShR | N/A | N/A |
+| @Willowmoon        | 14.75  | 🎨 Art Shop<br>💻 Code Shop | 0S 2ShR 1QuR | July 2021 | N/A |
 | @Rawrbear          | 5.00  | 📈 Maintainer | 0 | N/A | N/A |
 | @9puppygirl        | 5.00  | - | 0 | N/A | N/A |
 | @AECREATION        | 5.00  | - | 0 | N/A | N/A |
