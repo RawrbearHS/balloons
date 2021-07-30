@@ -4,6 +4,7 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | Holder  | 🎈 Balloons Owned (BLO$) | Status Badges | Transaction Count (Sent or Received) | Monthly Last Redeemed | Suspension Status |
 | ------------- | ------------- | ------- | ------- | ------- | ------- |
 | @chemistree        | 5.75  | 🎨 Art Shop<br>💻 Code Shop | 0S 1ShR | N/A | N/A |
+| @Heracc            | 5.00  | 🎨 Art Shop<br>💻 Code Shop | 0 | N/A | N/A |
 | @Innerpanda        | 5.00  | 🎨 Art Shop<br>💻 Code Shop | 0 | N/A | N/A |
 | @Jye               | 5.00  | 🎨 Art Shop | 0 | N/A | N/A |
 | @Willowmoon        | 10.75  | 🎨 Art Shop<br>💻 Code Shop | 0S 2ShR | N/A | N/A |
@@ -24,7 +25,6 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | @FRENCH_WAVE123    | 5.00  | - | 0 | N/A | N/A |
 | @GOATGAMES         | 0.00  | - | 1ShS 0R | N/A | N/A |
 | @Henry             | 5.00  | - | 0 | N/A | N/A |
-| @Heracc            | 5.00  | - | 0 | N/A | N/A |
 | @Jarmin            | 5.00  | - | 0 | N/A | N/A |
 | @LR10123           | 5.00  | - | 0 | N/A | N/A |
 | @Nobody            | 5.00  | - | 0 | N/A | N/A |
