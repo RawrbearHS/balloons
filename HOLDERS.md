@@ -3,7 +3,7 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 
 | Holder  | 🎈 Balloons Owned (BLO$) | Status Badges | Transaction Count (Sent or Received) | Monthly Last Redeemed | Suspension Status |
 | ------------- | ------------- | ------- | ------- | ------- | ------- |
-| @chemistree        | 5.75  | 🎨 Art Shop<br>💻 Code Shop | 0S 1ShR | N/A | N/A |
+| @chemistree        | 9.75  | 🎨 Art Shop<br>💻 Code Shop | 0S 1ShR 1QuR | July 2021 | N/A |
 | @DogIcing          | 4.00  | 🎨 Art Shop<br>💻 Code Shop | 1ShS 0R | N/A | N/A |
 | @Heracc            | 6.00  | 🎨 Art Shop<br>💻 Code Shop | 0S 1ShR | N/A | N/A |
 | @Innerpanda        | 5.00  | 🎨 Art Shop<br>💻 Code Shop | 0 | N/A | N/A |
