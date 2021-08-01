@@ -3,13 +3,13 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 
 | Holder  | 🎈 Balloons Owned (BLO$) | Status Badges | Transaction Count (Sent or Received) | Monthly Last Redeemed | Suspension Status |
 | ------------- | ------------- | ------- | ------- | ------- | ------- |
-| @chemistree        | 10.75  | 🎨 Art Shop<br>💻 Code Shop | 0S 2ShR 1QuR | July 2021 | N/A |
+| @chemistree        | 10.75  | 💻⭐⭐ Top Selling Coder<br><br>🎨 Art Shop<br>💻 Code Shop | 0S 2ShR 0ShRTM 1QuR | July 2021 | N/A |
+| @Willowmoon        | 12.75  | 🎨⭐⭐ Top Selling Artist<br><br>🎨 Art Shop<br>💻 Code Shop | 1DrS 3ShR 0ShRTM 1DrR 1QuR | July 2021 | N/A |
 | @DogIcing          | 4.00  | 🎨 Art Shop<br>💻 Code Shop | 1ShS 0R | N/A | N/A |
 | @Heracc            | 6.00  | 🎨 Art Shop<br>💻 Code Shop | 0S 1ShR | N/A | N/A |
 | @Innerpanda        | 2.00  | 🔎 Eye Spy<br>🎨 Art Shop<br>💻 Code Shop | 1DrS 1ShS 0R | N/A | N/A |
 | @Jye               | 5.00  | 🎨 Art Shop | 0 | N/A | N/A |
 | @Otato             | 5.00  | 💻 Code Shop | 0 | N/A | N/A |
-| @Willowmoon        | 12.75  | 🎨 Art Shop<br>💻 Code Shop | 1DrS 3ShR 1DrR 1QuR | July 2021 | N/A |
 | @Rawrbear          | 5.00  | 📈 Maintainer | 0 | N/A | N/A |
 | @9puppygirl        | 5.00  | - | 0 | N/A | N/A |
 | @AECREATION        | 5.00  | - | 0 | N/A | N/A |
