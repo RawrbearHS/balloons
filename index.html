@@ -2,8 +2,7 @@
 
 <head>
   <title>Balloons 🎈</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1" <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/markdown-it@12.1.0/dist/markdown-it.min.js"></script>
   <style>
     body {
@@ -95,6 +94,7 @@
             document.querySelector('#thing').innerHTML = `<hr /><b>Current balance:</b><br />${v.children[1].innerText}<br /><b>Status Badges:</b><br />${v.children[2].innerText}<br /><b>Transaction Count (Sent or Received):</b><br />${v.children[3].innerText}<br /><b>Monthly Last Redeemed:</b><br />${v.children[4].innerText}<br /><b>Suspension Status:</b><br />${v.children[5].innerText}`;
           }
         });
+        if(!found) document.querySelector('#thing').innerHTML = '<hr />You don\'t seem to have a balloon...';
         document.querySelector('#md').innerHTML = '';
       });
     }
