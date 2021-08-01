@@ -1,0 +1,103 @@
+<html>
+
+<head>
+  <title>Balloons 🎈</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it@12.1.0/dist/markdown-it.min.js"></script>
+  <style>
+    body {
+      color: #fff;
+      background: linear-gradient(to bottom left, #78B8DA, #0BC3BF);
+      background-color: #0BC3BF;
+      font-family: 'Ubuntu', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+
+    #check {
+      background: linear-gradient(to left bottom, #5b006b, #004299);
+      background-color: #5b006b;
+      border-radius: 6px;
+      padding: 10px;
+      margin: 10px auto;
+      max-width: 400px;
+    }
+
+    input {
+      border-radius: 4px;
+      padding: 7px;
+      border: none;
+      width: 100%;
+      margin: 8px 0;
+      outline: none;
+      font-family: inherit;
+    }
+
+    hr {
+      border: none;
+      background-color: #fff;
+      border-radius: 4px;
+      height: 3px;
+    }
+    
+    a {
+      font-weight: bold;
+      text-decoration: none;
+      color: inherit;
+    }
+    
+    .style {
+      text-align: center;
+      padding: 10px;
+      border-radius: 6px;
+      max-width: 400px;
+      margin: 10px auto;
+    }
+  </style>
+</head>
+
+<body>
+  <div style="text-align: center; font-size: 2.8em; font-weight: bold;"><img src="logo.png" style="height: 18rem; width: auto; margin: -1em auto;"><br />Balloons 🎈</div>
+  <div style="text-align: center; font-size: 1.4em">The open currency.</div>
+  <br />
+  <div class="style" style="background-color: #00b279">The currency we’ve all been wanting - stop using seeds for commissions, and start spending with an open source currency that’s easy to use!</div>
+  <div class="style" style="background-color: #4a00aa"><b>It’s so easy to make transactions ✨</b><br />When you and a shopholder/commissioner have reached a consensus, just ping the current currency maintainer and tell them you’d like to make a transaction with a shop owner! They’ll get back to it as soon as possible.</div>
+  <div class="style" style="background-color: #e56e00"><b>Social bonuses 🎩</b><br />Get neat badges to show on the official repository for doing great things with Balloons, like selling your awesome art, or helping someone with their code! Or, you can trade in some of your balloons for cool badges!</div>
+  <div class="style" style="background-color: #00ba63"><b>Accepting balloons at your shop? Get bonuses ⭐</b><br /> Let the currency maintainer know about your shop, and we’ll give you up to 4 free balloons per month just for using our currency, as well as a free badge depending on what you sell! Just let us know each month. Whether you’re selling code help, art, music or writing, we’ll be sure to show our appreciation!</div>
+  <div style="text-align: center; font-style: italic">And much more!</div>
+  <div id="check">
+    <b style="font-size: 1.3em">Check</b><br />
+    <input id="username" type="text" placeholder="@someone"><br />
+    (use your forum username, including the @)
+    <div id="thing"></div>
+  </div>
+  <div id="md" style="display: none"></div>
+  <div class="style" style="background-color: hsla(0,0%,255%,0.3); color: hsla(0,0%,255%,0.7); font-style: italic;">This event/competition/challenge is started by me (@Rawrbear) and all the currencies, rewards, and prizes are handled by me, not Hopscotch. You can find other similar self-started events in the <a href="https://forum.gethopscotch.com/c/collabs-requests-competitions/10">Latest Collabs, Requests & Competition Topics</a>, or even start one yourself. Because this is started by me, Hopscotch and the forum leaders are not involved or responsible in any of the transactions here.</div>
+  <div style="color: hsla(0,0%,255%,0.7); font-style: italic; text-align: center">Site made by waffle :)</div>
+  <script>
+    document.querySelector('#username').addEventListener('keyup', e => {
+      if (e.key == 'Enter') {
+        document.querySelector('#thing').innerHTML = '<hr />Loading...';
+        load();
+      }
+    });
+
+    function load() {
+      var req = new XMLHttpRequest();
+      req.open('GET', 'HOLDERS.md');
+      req.send();
+      req.addEventListener('load', () => {
+        document.querySelector('#md').innerHTML = markdownit().render(req.responseText);
+        var found = false;
+        Object.values(document.querySelector('#md').children[2].children[1].children).forEach(v => {
+          if(found) return;
+          if(v.children[0].innerText.toLowerCase() == document.querySelector('#username').value.toLowerCase()) {
+            found = true;
+            document.querySelector('#thing').innerHTML = `<hr /><b>Current balance:</b><br />${v.children[1].innerText}<br /><b>Status Badges:</b><br />${v.children[2].innerText}<br /><b>Transaction Count (Sent or Received):</b><br />${v.children[3].innerText}<br /><b>Monthly Last Redeemed:</b><br />${v.children[4].innerText}<br /><b>Suspension Status:</b><br />${v.children[5].innerText}`;
+          }
+        });
+        document.querySelector('#md').innerHTML = '';
+      });
+    }
+  </script>
+</body>
+
+</html>
