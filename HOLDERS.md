@@ -4,8 +4,8 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | Holder  | 🎈 Balloons Owned (BLO$) | Status Badges | Transaction Count (Sent or Received) | Monthly Last Redeemed | Suspension Status |
 | ------------- | ------------- | ------- | ------- | ------- | ------- |
 | @chemistree           | 10.25  | 💻⭐⭐ Top Selling Coder<br><br>🎨 Art Shop<br>💻 Code Shop | 1ShS 3ShR 1ShRTM 1QuR | July 2021 | N/A |
-| @Willowmoon           | 13.25  | 🎨⭐⭐ Top Selling Artist<br><br>🎨 Art Shop<br>💻 Code Shop | 1DrS 4ShR 1ShRTM 1DrR 1QuR | July 2021 | N/A |
-| WillowChem            | 0.00  | Company | 0 | Uneligible | N/A |
+| @Willowmoon           | 8.25  | 🎨⭐⭐ Top Selling Artist<br><br>🎨 Art Shop<br>💻 Code Shop | 1DrS 1CoS 4ShR 1ShRTM 1DrR 1QuR | July 2021 | N/A |
+| WillowChem            | 5.00  | Company | 0S 1CoR | Uneligible | N/A |
 | @BG_Studios           | 6.00  | 🎨 Art Shop<br>💻 Code Shop | 0S 1ShR 1ShRTM | N/A | N/A |
 | @DogIcing             | 4.00  | 🎨 Art Shop<br>💻 Code Shop | 1ShS 0R | N/A | N/A |
 | @Heracc               | 5.00  | 🎨 Art Shop<br>💻 Code Shop | 1ShS 1ShR | N/A | N/A |
