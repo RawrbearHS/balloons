@@ -84,6 +84,7 @@
     });
 
     function load() {
+      if(document.querySelector('#username').value.length < 1) return;
       var req = new XMLHttpRequest();
       req.open('GET', 'HOLDERS.md');
       req.send();
