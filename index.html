@@ -66,8 +66,9 @@
   <div style="text-align: center; font-style: italic">And much more!</div>
   <div id="check">
     <b style="font-size: 1.3em">Check</b><br />
-    <input id="username" type="text" placeholder="@someone"><br />
-    (use your forum username, including the @)
+    <label for="user">Forum username:</label>
+    <input id="username" name="user" type="text" placeholder="@someone"><br />
+    <button style="padding: 10px; margin: 5px 0; border: solid 2px #fff; border-radius: 6px; font-family: inherit; font-weight: bold; background-color: #7700e0; width: 100%; color: #fff" onclick="load()">➡️ Go</button>
     <div id="thing" style="transition: opacity .5s; opacity: 0;"></div>
   </div>
   <div id="md" style="display: none"></div>
