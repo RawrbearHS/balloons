@@ -4,9 +4,9 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | Holder  | 🎈 Balloons Owned (BLO$) | Status Badges | Transaction Count (Sent or Received) | Monthly Last Redeemed | Suspension Status |
 | ------------- | ------------- | ------- | ------- | ------- | ------- |
 | @chemistree           | 5.25  | 💻⭐⭐ Top Selling Coder<br><br>🎨 Art Shop<br>💻 Code Shop | 1ShS 1CoS 3ShR 1ShRTM 1QuR | July 2021 | N/A |
-| @Willowmoon           | 8.25  | 🎨⭐⭐ Top Selling Artist<br><br>🎨 Art Shop<br>💻 Code Shop | 1DrS 1CoS 4ShR 1ShRTM 1DrR 1QuR | July 2021 | N/A |
+| @Willowmoon           | 7.25  | 🎨⭐⭐ Top Selling Artist<br><br>🎨 Art Shop<br>💻 Code Shop | 1ShS 1DrS 1CoS 4ShR 1ShRTM 1DrR 1QuR | July 2021 | N/A |
 | WillowChem            | 10.00  | Company | 0S 2CoR | Uneligible | N/A |
-| @BG_Studios           | 6.00  | 🎨 Art Shop<br>💻 Code Shop | 0S 1ShR 1ShRTM | N/A | N/A |
+| @BG_Studios           | 7.00  | 🎨 Art Shop<br>💻 Code Shop | 0S 2ShR 2ShRTM | N/A | N/A |
 | @creationsofavillager | 6.00  | 🎨 Art Shop | 0S 1ShR 1ShRTM | N/A | N/A |
 | @DogIcing             | 3.00  | 🎨 Art Shop<br>💻 Code Shop | 2ShS 0R | N/A | N/A |
 | @Heracc               | 5.00  | 🎨 Art Shop<br>💻 Code Shop | 1ShS 1ShR | N/A | N/A |
