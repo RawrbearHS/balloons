@@ -3,14 +3,18 @@
 <head>
   <title>Balloons 🎈</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <link href="https://wafflestuff.vercel.app/cantarell/style.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/markdown-it@12.1.0/dist/markdown-it.min.js"></script>
   <style>
     body {
       color: #fff;
       background: linear-gradient(to bottom left, #78B8DA, #0BC3BF);
       background-color: #0BC3BF;
-      font-family: 'Red Hat Text', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-family: 'Cantarell', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+    
+    b, h1 {
+      font-weight: 800;
     }
 
     #check {
@@ -56,8 +60,8 @@
 </head>
 
 <body>
-  <div style="text-align: center; font-size: 2.8em; font-weight: bold;"><img src="logo.png" style="height: 18rem; width: auto; margin: -1em auto;"><br />Balloons 🎈</div>
-  <div style="text-align: center; font-size: 1.4em">The open currency.</div>
+  <div style="text-align: center; font-size: 2.8em; font-weight: 800;"><img src="logo.png" style="height: 18rem; width: auto; margin: -1em auto;"><br />Balloons 🎈</div>
+  <div style="text-align: center; font-size: 1.4em; font-weight: bold">The open currency.</div>
   <br />
   <div class="style" style="background-color: #00b279">The currency we’ve all been wanting - stop using seeds for commissions, and start spending with an open source currency that’s easy to use!</div>
   <div class="style" style="background-color: #4a00aa"><b>It’s so easy to make transactions ✨</b><br />When you and a shopholder/commissioner have reached a consensus, just ping the current currency maintainer and tell them you’d like to make a transaction with a shop owner! They’ll get back to it as soon as possible.</div>
@@ -68,7 +72,7 @@
     <b style="font-size: 1.3em">Check</b><br />
     <label for="user">Forum username:</label>
     <input id="username" name="user" type="text" placeholder="@someone"><br />
-    <button style="padding: 10px; margin: 5px 0; border: solid 2px #fff; border-radius: 6px; font-family: inherit; font-weight: bold; background-color: #7700e0; width: 100%; color: #fff" onclick="load()">➡️ Go</button>
+    <button style="padding: 10px; margin: 5px 0; border: solid 2px #fff; border-radius: 6px; font-family: inherit; font-weight: 800; background-color: #7700e0; width: 100%; color: #fff" onclick="load()">➡️ Go</button>
     <div id="thing" style="transition: opacity .5s; opacity: 0;"></div>
   </div>
   <div id="md" style="display: none"></div>
@@ -84,7 +88,6 @@
     });
 
     function load() {
-      if(document.querySelector('#username').value.length < 1) return;
       var req = new XMLHttpRequest();
       req.open('GET', 'HOLDERS.md');
       req.send();
