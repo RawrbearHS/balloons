@@ -13,7 +13,7 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | @Innerpanda           | 2.00  | 🔎 Eye Spy<br>🎨 Art Shop<br>💻 Code Shop | 1DrS 1ShS 0R | N/A | N/A |
 | @Jye                  | 5.00  | 🎨 Art Shop | 0 | N/A | N/A |
 | @Otato                | 5.00  | 💻 Code Shop | 0 | N/A | N/A |
-| @Rawrbear             | 5.00  | 📈 Maintainer | 0 | N/A | N/A |
+| @Rawrbear             | 7.00  | 📈 Maintainer | 0S 1DrR | N/A | N/A |
 | @9puppygirl           | 5.00  | - | 0 | N/A | N/A |
 | @AECREATION           | 5.00  | - | 0 | N/A | N/A |
 | @AlphaChamp           | 5.00  | - | 0 | N/A | N/A |
@@ -27,7 +27,7 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | @ExplodingDucks       | 5.00  | - | 0 | N/A | N/A |
 | @FearlessPhoenix      | 5.00  | - | 0 | N/A | N/A |
 | @FRENCH_WAVE123       | 5.00  | - | 0 | N/A | N/A |
-| @GOATGAMES            | 4.00  | - | 1ShS 1DrR | N/A | N/A |
+| @GOATGAMES            | 2.00  | - | 1ShS 1DrS 1DrR | N/A | N/A |
 | @Henry                | 5.00  | - | 0 | N/A | N/A |
 | @Jarmin               | 5.00  | - | 0 | N/A | N/A |
 | @LR10123              | 5.00  | - | 0 | N/A | N/A |
