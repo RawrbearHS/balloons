@@ -30,13 +30,19 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | @GOATGAMES            | 2.00  | - | 1ShS 1DrS 1DrR | N/A | N/A |
 | @Henry                | 5.00  | - | 0 | N/A | N/A |
 | @Jarmin               | 5.00  | - | 0 | N/A | N/A |
+| @Lizzie               | 5.00  | - | 0 | N/A | N/A |
 | @LR10123              | 5.00  | - | 0 | N/A | N/A |
+| @LunaPuppy14          | 5.00  | - | 0 | N/A | N/A |
 | @MidnightWolf         | 5.00  | - | 0 | N/A | N/A |
 | @Nobody               | 5.00  | - | 0 | N/A | N/A |
+| @Noland               | 5.00  | - | 0 | N/A | N/A |
+| @O_O                  | 5.00  | - | 0 | N/A | N/A |
 | @Ostrich              | 5.00  | - | 0 | N/A | N/A |
 | @PeppyWafer21         | 5.00  | - | 0 | N/A | N/A |
 | @Petrichor            | 5.00  | - | 0 | N/A | N/A |
 | @PumpkinGirl          | 5.00  | - | 0 | N/A | N/A |
+| @rainbo_ruby          | 5.00  | - | 0 | N/A | N/A |
+| @Ren                  | 5.00  | - | 0 | N/A | N/A |
 | @sophia               | 5.00  | - | 0 | N/A | N/A |
 | @Stella               | 2.50  | - | 1DrS | N/A | N/A |
 | @Temm                 | 5.00  | - | 0 | N/A | N/A |
@@ -45,3 +51,4 @@ A table of Hopscotch forumers that are currently holding balloons, sorted by sta
 | @ttruong              | 5.00  | - | 0 | N/A | N/A |
 | @waffle               | 5.00  | - | 0 | N/A | N/A |
 | @William04GamerA      | 5.00  | - | 0 | N/A | N/A |
+| @zza                  | 5.00  | - | 0 | N/A | N/A |
