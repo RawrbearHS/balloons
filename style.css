@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@keyframes i {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+body {
+  font-family: 'Red Hat Display', sans-serif;
+  height: 100vh !important;
+  margin: 0;
+  font-size: 1.3em;
+  overflow: hidden auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.sc {
+  height: 100%;
+  /*scroll-snap-align: center;*/
+  background-size: cover;
+  flex: none;
+  justify-content: start;
+  display: flex;
+  align-items: center;
+  color: #fff;
+  text-shadow: 0 .1em 0.2em #000;
+}
+
+.head {
+  font-size: .7em;
+  position: fixed;
+  padding: 1em;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: linear-gradient(to right, hsla(0, 0%, 100%, 0.32), hsla(0, 0%, 88%, 0.5));
+  backdrop-filter: blur(5px);
+}
+
+.icon {
+  width: 5em;
+  height: 5em;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.hw {
+  margin-left: .5em;
+  font-size: 1.8em;
+  text-shadow: 0 .1em 0.2em #000;
+  color: #fff;
+  font-family: 'Pacifico', cursive;
+}
+
+.aa {
+  height: 100%;
+  display: flex;
+  overflow-y: auto;
+  flex-flow: column nowrap;
+/*  scroll-snap-type: y mandatory;*/
+  margin: 0;
+}
+
+.sc > * {
+  margin-left: 20%;
+  max-width: 26%;
+}
+
+.btn {
+  border: solid 4px #000;
+  background-color: #fff;
+  font-weight: bold;
+  border-radius: 30px;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.mm {
+  font-size: 1.8em;
+  position: absolute;
+  right: 1em;
+  padding: .6em 0;
+  font-weight: 600;
+  color: #fff;
+}
+
+#menu {
+  font-weight: 600;
+  display: none;
+  width: 100%;
+  position: fixed;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: linear-gradient(to right, hsla(0, 0%, 100%, 0.32), hsla(0, 0%, 88%, 0.5));
+  backdrop-filter: blur(5px);
+  animation: i .5s;
+  overflow-y: auto;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.7em;
+  text-shadow: 0 .1em 0.2em #000;
+}
+
+#menu > a {
+  margin-top: 1em;
+}
+
+.mm.s {
+  display: none;
+}
+
+.mm > a {
+  margin-left: 1em;
+}
+
+a, button {
+  cursor: pointer;
+}
+
+a {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+@media (max-width: 300px) {
+  .hw {
+    display: none;
+  }
+}
+
+@media (max-width: 555px) {
+  .mm.d {
+    display: none;
+  }
+  .mm.s {
+    display: initial;
+  }
+}
+
+@media (max-width: 720px) {
+  .sc {
+    justify-content: center;
+    padding: 1em;
+  }
+
+  .sc > * {
+    margin-left: 0;
+    max-width: initial;
+  }
+}
