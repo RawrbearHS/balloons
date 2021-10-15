@@ -160,3 +160,19 @@ a {
     max-width: initial;
   }
 }
+
+@media (max-height: 500px) {
+  .sc {
+    justify-content: center;
+    padding: 1em;
+    font-size: 5vh;
+  }
+
+  .sc > * {
+    margin-left: 0;
+    max-width: initial;
+  }
+  .head {
+    font-size: 3vh;
+  }
+}
