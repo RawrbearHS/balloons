@@ -33,7 +33,7 @@ body {
 }
 
 .head {
-  font-size: .7em;
+  font-size: .8em;
   position: fixed;
   padding: 1em;
   top: 0;
@@ -41,6 +41,7 @@ body {
   width: 100%;
   background: linear-gradient(to right, hsla(0, 0%, 100%, 0.32), hsla(0, 0%, 88%, 0.5));
   backdrop-filter: blur(5px);
+  vertical-align: middle;
 }
 
 .icon {
@@ -102,7 +103,7 @@ h1 {
   height: 100%;
   left: 0;
   top: 0;
-  background: linear-gradient(to right, hsla(0, 0%, 100%, 0.32), hsla(0, 0%, 88%, 0.5));
+  background: linear-gradient(to right, hsla(0, 0%, 0%, 0.5), hsla(0, 0%, 0%, 0.4));
   backdrop-filter: blur(5px);
   animation: i .5s;
   overflow-y: auto;
@@ -140,7 +141,7 @@ a {
   }
 }
 
-@media (max-width: 555px) {
+@media (max-width: 622px) {
   .mm.d {
     display: none;
   }
